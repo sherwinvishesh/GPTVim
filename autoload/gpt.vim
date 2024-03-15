@@ -1,4 +1,4 @@
-let g:gpt#plugin_dir = expand('~/.gpt-vim/history')
+let g:gpt#plugin_dir = expand('~/.GPTVim/history')
 
 
 " old api
